@@ -11,9 +11,8 @@ The scripts compute and visualize:
 
 ## Contents
 - `enumeration.py` – recursive computation of `N(n, m, k)` values.  
-- `figures.py` – plotting scripts for all figures in the manuscript.  
-- `data/` – precomputed results tables (optional).  
-- `notebooks/` – interactive Jupyter notebooks reproducing results.
+- `plot_figures.py` – plotting scripts for all figures in the manuscript.  
+- `figs/` – folder for figures.  
 
 ## Requirements
 Python ≥ 3.9 with `numpy`, `matplotlib`, and `pandas`.
@@ -24,4 +23,4 @@ If you use this code, please cite:
 > DOI: [link to arXiv preprint]
 
 ## License
-Released under the MIT License. See `LICENSE` for details.
+Released under the MIT License.
